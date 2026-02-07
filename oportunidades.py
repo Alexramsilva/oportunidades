@@ -164,7 +164,7 @@ else:
 # -----------------------------------------------------
 # TABLA FINAL
 # -----------------------------------------------------
-st.subheader("📊 Ranking por margen de oportunidad (Alta Volatilidad)")
+st.subheader("Ranking por margen de oportunidad (Alta Volatilidad)")
 
 st.dataframe(
     df_screen[
