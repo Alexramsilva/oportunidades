@@ -166,7 +166,7 @@ df_screen["Estado"] = df_screen["Margen_Oportunidad"].apply(semaforo_vol)
 oportunidades = df_screen[df_screen["Margen_Oportunidad"] >= 0.85]
 
 if not oportunidades.empty:
-    st.success("🎯 ACTIVOS CON ALTO MARGEN DE OPORTUNIDAD 🎯")
+    st.success("🎯 ASSETS WITH HIGH OPPORTUNITY MARGIN 🎯")
     for _, row in oportunidades.iterrows():
         st.markdown(
             f"""
