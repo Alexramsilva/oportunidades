@@ -22,11 +22,11 @@ import numpy as np
 # -----------------------------------------------------
 st.set_page_config(page_title="Hooke Trading – Opportunity Radar", layout="wide")
 
-TICKERS = ["GAPB.MX","SPY", "GRUMAB.MX", "IAU",  "NVDA","WALMEX.MX","QUBT", "QTUM", 
+TICKERS = ["GAPB.MX","SPY", "GRUMAB.MX",  "NVDA","QUBT", "QTUM", "VOO", 
 "AVGO", "ASURB.MX", "QBTS" , "^GSPC","BTC-USD", "BABA", "VISTAA.MX", "DANHOS13.MX", "EDUCA18.MX",
 "FIBRAMQ12.MX", "FIBRAPL14.MX", "FIHO12.MX", "FINN13.MX", "FMTY14.MX",
 "FPLUS16.MX", "FSHOP13.MX", "FUNO11.MX", "ACCELSAB.MX", "AGUA.MX", "ALFAA.MX",
-"CADUA.MX", "CERAMICB.MX", "DINEB.MX", "GAPB.MX", "GCARSOA1.MX",
+"CADUA.MX", "CERAMICB.MX", "DINEB.MX",  "GCARSOA1.MX",
 "GISSAA.MX", "GMD.MX", "GMXT.MX", "HOMEX.MX", "JAVER.MX", "KUOB.MX",
 "OMAB.MX", "ORBIA.MX", "PASAB.MX", "PINFRA.MX", "SITES1A-1.MX", "TMMA.MX",
 "TRAXIONA.MX", "VESTA.MX", "VINTE.MX", "VOLARA.MX", "ALPEKA.MX", "AUTLANB.MX",
