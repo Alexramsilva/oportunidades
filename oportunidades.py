@@ -48,7 +48,7 @@ TICKERS = ["GAPB.MX","SPY", "GRUMAB.MX",  "NVDA","QUBT", "QTUM", "VOO",
 "FAS", "SPXL", "TECL", "IAU", "NU", "MELI", "META",
 "JPM","NFLX", "IONQ", "RGTI", "PLTR", "SOFI", "HOOD", "FRES.MX", "MCHI", "INDA", "TSM", "AMD", "GOOGL", "AMZN","V"
 ]
-
+st.image("NQH.svg", caption="", width=400)
 st.image("shop.png", width=280)
 st.title("📡 Entry Opportunity Radar")
 st.caption("Alta volatilidad · mayor margen · paciencia estratégica")
