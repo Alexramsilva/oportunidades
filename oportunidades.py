@@ -214,3 +214,4 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.caption("Ranking 1 = activo MÁS alejado del entry por abajo · mayor margen de compra")
+st.markdown("[Análisis financiero](https://retoactinver-7ugnxpfgupkdufnskngbvg.streamlit.app/)")
