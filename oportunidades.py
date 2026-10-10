@@ -215,3 +215,6 @@ st.markdown("""
 
 st.caption("Ranking 1 = activo MÁS alejado del entry por abajo · mayor margen de compra")
 st.markdown("[Análisis financiero](https://retoactinver-7ugnxpfgupkdufnskngbvg.streamlit.app/)")
+st.markdown("[Reforcement Learning](https://b8rvvwhhdmfegkkcpwreoc.streamlit.app/)")
+st.markdown("[Simulación Monte Carlo](https://dr42zwffvmeo7pls3snkuv.streamlit.app/)")
+
